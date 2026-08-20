@@ -89,6 +89,12 @@ The project analyzes:
 - Item-level performance
 
 📊 Power BI Dashboard
+<img width="898" height="507" alt="WhatsApp Image 2026-08-20 at 3 05 21 PM" src="https://github.com/user-attachments/assets/47b1f6f5-2491-4546-a0a1-9251de50de79" />
+<img width="898" height="498" alt="WhatsApp Image 2026-08-20 at 3 05 21 PM (1)" src="https://github.com/user-attachments/assets/ada7ef90-75ec-4621-87fa-31196e0c0743" />
+<img width="876" height="427" alt="WhatsApp Image 2026-08-20 at 3 05 20 PM" src="https://github.com/user-attachments/assets/6faf472e-19f5-48c3-8ee7-fe6f03993676" />
+
+
+
 
 The Power BI dashboard contains KPI cards and interactive visualizations.
 
